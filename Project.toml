@@ -1,0 +1,7 @@
+name = "PlotRandomValues"
+uuid = "87e063a1-0e6e-448c-b8ca-9e97b765baa8"
+authors = ["Wink Saville <wink@saville.com>"]
+version = "0.1.0"
+
+[deps]
+GRUtils = "0337cf30-a0fd-11e9-31db-a79914c9d7ac"
